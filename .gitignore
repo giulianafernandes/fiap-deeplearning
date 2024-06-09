@@ -1,3 +1,5 @@
 /imagens
 
 .DS_Store
+
+/training_checkpoints
